@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Learning Summary"
 permalink: /learning/
 author_profile: true
