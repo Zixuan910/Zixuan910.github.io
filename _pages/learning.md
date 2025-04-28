@@ -5,6 +5,12 @@ permalink: /learning/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
 这里是我的学习总结页面 📚✨  
 记录我在科研探索、技能提升与课程学习中的阶段性成果与思考。
 
