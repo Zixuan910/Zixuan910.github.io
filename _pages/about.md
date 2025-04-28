@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the College of Environmental Science and Engineering at Tongji University. My research interest includes biomass-derived functional materials, membrane separation, and advanced oxidation. 
+I am a first-year Ph.D. student major in Environmental Science and Engineering. My research interest includes biomass-derived functional materials, membrane separation and advanced oxidation. 
 
 You can find my CV here [Zoe Wu-CV.pdf](https://github.com/user-attachments/files/17641918/Zoe.Wu-CV.pdf)
